@@ -4,3 +4,8 @@
 * {
   font-family: var(--font-lexend), sans-serif;
 }
+
+html,
+body {
+  overflow-x: hidden;
+}
